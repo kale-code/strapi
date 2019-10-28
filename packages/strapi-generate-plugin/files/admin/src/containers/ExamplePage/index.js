@@ -35,7 +35,6 @@ export class ExamplePage extends React.Component {
   }
 
   render() {
-    console.log('Don\'t forget to delete the ExampleContainer when you\'re done studying it');
     // Generate the data block
     const dataBlock = this.generateDataBlock();
 
